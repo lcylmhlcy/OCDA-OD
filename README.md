@@ -14,10 +14,10 @@ open compound domain adaptation on object detection under multiple degraded weat
 ---
 
 ## Novel Class Discovery (NCD)
+- [**Awesome-Novel-Class-Discovery**](https://github.com/JosephKJ/Awesome-Novel-Class-Discovery)
 - [ICLR2018] Learning to cluster in order to transfer across domains and tasks [[paper](https://arxiv.org/abs/1711.10125)] [[code](https://github.com/GT-RIPL/L2C)]
 - [ICCV2019] Learning to Discover Novel Visual Categories via Deep Transfer Clustering [[paper](https://arxiv.org/abs/1908.09884)] [[code](https://github.com/k-han/DTC)]
 - [ICML2019] Multi-class Classification without Multi-class Labels [[paper](https://arxiv.org/abs/1901.00544)] [[code](https://github.com/GT-RIPL/L2C)]
-- [NatureMethods2020] MARS: discovering novel cell types across heterogeneous single-cell experiments [[paper](https://www.nature.com/articles/s41592-020-00979-3)] [[code](http://snap.stanford.edu/mars/)]
 - [ICLR2020] Automatically Discovering and Learning New Visual Categories with Ranking Statistics [[paper](https://arxiv.org/abs/2002.05714)] [[TPAMI2021](https://ieeexplore.ieee.org/abstract/document/9464163/)] [[code](https://github.com/k-han/AutoNovel)]
 - [NIPS2021] Novel Visual Category Discovery with Dual Ranking Statistics and Mutual Knowledge Distillation [[paper](https://arxiv.org/abs/2002.05714)]
 - [CVPR2021] Neighborhood Contrastive Learning for Novel Class Discovery [[paper](https://arxiv.org/abs/2106.10731)] [[code](https://github.com/zhunzhong07/NCL)]
