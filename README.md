@@ -11,7 +11,11 @@ open compound domain adaptation on object detection under multiple degraded weat
 - [ICLR2021] Domain generalization with mixstyle [[paper](https://arxiv.org/abs/2104.02008)] [[code](https://github.com/KaiyangZhou/mixstyle-release)]
 - [TCSVT2022] Source-Free Open Compound Domain Adaptation in Semantic Segmentation [[paper](https://arxiv.org/abs/2106.03422)]
 - [x] [TIP2022] Robust Object Detection via Adversarial Novel Style Exploration [[paper](https://ieeexplore.ieee.org/abstract/document/9697984)]
+- [AAAI2022] Amplitude Spectrum Transformation for Open Compound Domain Adaptive Semantic Segmentation [[paper](https://arxiv.org/abs/2202.04287)]
+- [ECCV2022] ML-BPM: Multi-teacher Learning with Bidirectional Photometric Mixing for Open Compound Domain Adaptation in Semantic Segmentation [[paper](https://arxiv.org/abs/2207.09045)]
 - [CVPR2022] Style Neophile: Constantly Seeking Novel Styles for Domain Generalization [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kang_Style_Neophile_Constantly_Seeking_Novel_Styles_for_Domain_Generalization_CVPR_2022_paper.html)]
+- [SIGIR2023] Adversarial Meta Prompt Tuning for Open Compound Domain Adaptive Intent Detection [[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591945)]
+- [2023] Test-time Adaptation in the Dynamic World with Compound Domain Knowledge Management [[paper](https://arxiv.org/abs/2212.08356)]
 
 ---
 
