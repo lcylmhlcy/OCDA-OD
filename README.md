@@ -7,7 +7,9 @@ open compound domain adaptation on object detection under multiple degraded weat
 - [ECCV2020] Learning to generate novel domains for domain generalization [[paper](https://arxiv.org/abs/2007.03304)]  [[code](https://github.com/mousecpn/L2A-OT)]
 - [x] [CVPR2020] Open Compound Domain Adaptation [[paper](https://arxiv.org/abs/1909.03403)] [[code](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA)] [[code-driving](https://github.com/XingangPan/OCDA-Driving-Example)]
 - [NIPS2020] Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation [[paper](https://arxiv.org/abs/2110.04111)]
+- [CVPR2021] Cluster, Split, Fuse, and Update: Meta-Learning for Open Compound Domain Adaptive Semantic Segmentation [[paper](https://arxiv.org/abs/2012.08278)]
 - [ICLR2021] Domain generalization with mixstyle [[paper](https://arxiv.org/abs/2104.02008)] [[code](https://github.com/KaiyangZhou/mixstyle-release)]
+- [TCSVT2022] Source-Free Open Compound Domain Adaptation in Semantic Segmentation [[paper](https://arxiv.org/abs/2106.03422)]
 - [x] [TIP2022] Robust Object Detection via Adversarial Novel Style Exploration [[paper](https://ieeexplore.ieee.org/abstract/document/9697984)]
 - [CVPR2022] Style Neophile: Constantly Seeking Novel Styles for Domain Generalization [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kang_Style_Neophile_Constantly_Seeking_Novel_Styles_for_Domain_Generalization_CVPR_2022_paper.html)]
 
