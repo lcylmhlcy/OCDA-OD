@@ -11,11 +11,34 @@ open compound domain adaptation on object detection under multiple degraded weat
 - [ICLR2021] Domain generalization with mixstyle [[paper](https://arxiv.org/abs/2104.02008)] [[code](https://github.com/KaiyangZhou/mixstyle-release)]
 - [TCSVT2022] Source-Free Open Compound Domain Adaptation in Semantic Segmentation [[paper](https://arxiv.org/abs/2106.03422)]
 - [x] [TIP2022] Robust Object Detection via Adversarial Novel Style Exploration [[paper](https://ieeexplore.ieee.org/abstract/document/9697984)]
+    - [CVPR2019] Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf)] [[code](https://github.com/TKKim93/DivMatch)] **Randomization**
 - [AAAI2022] Amplitude Spectrum Transformation for Open Compound Domain Adaptive Semantic Segmentation [[paper](https://arxiv.org/abs/2202.04287)]
 - [ECCV2022] ML-BPM: Multi-teacher Learning with Bidirectional Photometric Mixing for Open Compound Domain Adaptation in Semantic Segmentation [[paper](https://arxiv.org/abs/2207.09045)]
 - [CVPR2022] Style Neophile: Constantly Seeking Novel Styles for Domain Generalization [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kang_Style_Neophile_Constantly_Seeking_Novel_Styles_for_Domain_Generalization_CVPR_2022_paper.html)]
 - [SIGIR2023] Adversarial Meta Prompt Tuning for Open Compound Domain Adaptive Intent Detection [[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591945)]
 - [2023] Test-time Adaptation in the Dynamic World with Compound Domain Knowledge Management [[paper](https://arxiv.org/abs/2212.08356)]
+
+---
+
+# DA - Related
+- [CVPR2017] Adversarial Discriminative Domain Adaptation [[paper](https://arxiv.org/abs/1702.05464)]
+- [2018] M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [[paper](https://arxiv.org/abs/1807.02552)] [[code](https://github.com/IssamLaradji/M-ADDA)]
+- [x] [BMVC2019] Domain Adaptation for Object Detection via Style Consistency [[paper](https://arxiv.org/abs/1911.10033)] [[code](https://github.com/pb2377/Pytorch-Domain-Adaptation-via-Style-Consistency)] **Randomization**
+- [IJCNN2019] Looking back at Labels: A Class based Domain Adaptation Technique [[paper](https://arxiv.org/abs/1904.01341)] [[code](https://github.com/vinodkkurmi/DiscriminatorDomainAdaptation)]
+- [ICCV2019] Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in Semantic Segmentation [[paper](https://arxiv.org/abs/1909.00589)]
+- [ICCV2019] Confidence Regularized Self-Training [[paper](https://arxiv.org/abs/1908.09822)] [[code](https://github.com/yzou2/CRST)]
+- [CVPR2019] Mode seeking generative adversarial networks for diverse image synthesis [[paper](https://arxiv.org/abs/1903.05628)] [[code](https://github.com/HelenMao/MSGAN)]
+- [ICLR2019] Diversity-sensitive conditional generative adversarial networks [[paper](https://arxiv.org/abs/1901.09024)]
+- [PAMI2020] A curriculum domain adaptation approach to the semantic segmentation of urban scenes [[paper](https://arxiv.org/abs/1812.09953)] [[code](https://github.com/YangZhang4065/AdaptationSeg)]
+- [PAMI2020] Domain Stylization: A Fast Covariance Matching Framework Towards Domain Adaptation [[paper](https://ieeexplore.ieee.org/abstract/document/8968319)]
+- [ECCV2020] Learning to balance specificity and invariance for in and out of domain generalization [[paper](https://arxiv.org/abs/2008.12839)]
+- [CVPR2020] FDA: Fourier Domain Adaptation for Semantic Segmentation [[paper](https://arxiv.org/abs/2004.05498)] [[code](https://github.com/YanchaoYang/FDA)]
+- [CVPR2021] Reducing domain gap by reducing style bias [[paper](https://arxiv.org/abs/1910.11645)]
+- [CVPR2021] RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening [[paper](https://arxiv.org/abs/2103.15597)] [[code](https://github.com/shachoi/RobustNet)]
+- [x] FSDR: Frequency Space Domain Randomization for Domain Generalization [[paper](https://arxiv.org/abs/2103.02370)] [[code](https://github.com/jxhuang0508/FSDR)]
+- [MM2022] Consistency Learning based on Class-Aware Style Variation for Domain Generalizable Semantic Segmentation [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548209)]
+- [Applied Soft Computing2022] Exploring Thermal Images for Object Detection in Underexposure Regions for Autonomous Driving [[paper](https://arxiv.org/abs/2006.00821v2)]
+- [Arxiv2023] Adversarial Alignment for Source Free Object Detection [[paper](https://arxiv.org/abs/2301.04265)]
 
 ---
 
@@ -47,26 +70,6 @@ open compound domain adaptation on object detection under multiple degraded weat
 - [NIPS2020] Unsupervised Learning of Visual Features by Contrasting Cluster Assignments [[paper](https://arxiv.org/abs/2006.09882)] [[code](https://github.com/facebookresearch/swav)]
 - [KDD2021] Dip-based Deep Embedded Clustering with k-Estimation [[paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467316)]
 - [CVPR2022] DeepDPM: Deep Clustering With an Unknown Number of Clusters [[paper](https://arxiv.org/abs/2203.14309)] [[code](https://github.com/BGU-CS-VIL/DeepDPM)]
-
----
-
-# DA - Related
-- [CVPR2017] Adversarial Discriminative Domain Adaptation [[paper](https://arxiv.org/abs/1702.05464)]
-- [2018] M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [[paper](https://arxiv.org/abs/1807.02552)] [[code](https://github.com/IssamLaradji/M-ADDA)]
-- [IJCNN2019] Looking back at Labels: A Class based Domain Adaptation Technique [[paper](https://arxiv.org/abs/1904.01341)] [[code](https://github.com/vinodkkurmi/DiscriminatorDomainAdaptation)]
-- [ICCV2019] Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in Semantic Segmentation [[paper](https://arxiv.org/abs/1909.00589)]
-- [ICCV2019] Confidence Regularized Self-Training [[paper](https://arxiv.org/abs/1908.09822)] [[code](https://github.com/yzou2/CRST)]
-- [CVPR2019] Mode seeking generative adversarial networks for diverse image synthesis [[paper](https://arxiv.org/abs/1903.05628)] [[code](https://github.com/HelenMao/MSGAN)]
-- [ICLR2019] Diversity-sensitive conditional generative adversarial networks [[paper](https://arxiv.org/abs/1901.09024)]
-- [PAMI2020] A curriculum domain adaptation approach to the semantic segmentation of urban scenes [[paper](https://arxiv.org/abs/1812.09953)] [[code](https://github.com/YangZhang4065/AdaptationSeg)]
-- [PAMI2020] Domain Stylization: A Fast Covariance Matching Framework Towards Domain Adaptation [[paper](https://ieeexplore.ieee.org/abstract/document/8968319)]
-- [ECCV2020] Learning to balance specificity and invariance for in and out of domain generalization [[paper](https://arxiv.org/abs/2008.12839)]
-- [CVPR2020] FDA: Fourier Domain Adaptation for Semantic Segmentation [[paper](https://arxiv.org/abs/2004.05498)] [[code](https://github.com/YanchaoYang/FDA)]
-- [CVPR2021] Reducing domain gap by reducing style bias [[paper](https://arxiv.org/abs/1910.11645)]
-- [CVPR2021] RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening [[paper](https://arxiv.org/abs/2103.15597)] [[code](https://github.com/shachoi/RobustNet)]
-- [x] FSDR: Frequency Space Domain Randomization for Domain Generalization [[paper](https://arxiv.org/abs/2103.02370)] [[code](https://github.com/jxhuang0508/FSDR)]
-- [MM2022] Consistency Learning based on Class-Aware Style Variation for Domain Generalizable Semantic Segmentation [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548209)]
-- [Arxiv2023] Adversarial Alignment for Source Free Object Detection [[paper](https://arxiv.org/abs/2301.04265)]
 
 ---
 
