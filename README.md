@@ -39,7 +39,7 @@ open compound domain adaptation on object detection under multiple degraded weat
 - [ICLR2019] Diversity-sensitive conditional generative adversarial networks [[paper](https://arxiv.org/abs/1901.09024)]
 - [PAMI2020] A curriculum domain adaptation approach to the semantic segmentation of urban scenes [[paper](https://arxiv.org/abs/1812.09953)] [[code](https://github.com/YangZhang4065/AdaptationSeg)]
 - [PAMI2020] Domain Stylization: A Fast Covariance Matching Framework Towards Domain Adaptation [[paper](https://ieeexplore.ieee.org/abstract/document/8968319)]
-- [ECCV2020] Learning to balance specificity and invariance for in and out of domain generalization [[paper](https://arxiv.org/abs/2008.12839)]
+- [ECCV2020] Learning to balance specificity and invariance for in and out of domain generalization [[paper](https://arxiv.org/abs/2008.12839)]【
 - [CVPR2020] FDA: Fourier Domain Adaptation for Semantic Segmentation [[paper](https://arxiv.org/abs/2004.05498)] [[code](https://github.com/YanchaoYang/FDA)]
 - [CVPR2021] Reducing domain gap by reducing style bias [[paper](https://arxiv.org/abs/1910.11645)]
 - [CVPR2021] RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening [[paper](https://arxiv.org/abs/2103.15597)] [[code](https://github.com/shachoi/RobustNet)]
