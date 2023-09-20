@@ -9,3 +9,5 @@
 
 - [TIP2022] Robust Object Detection via Adversarial Novel Style Exploration [[paper](https://ieeexplore.ieee.org/abstract/document/9697984)]
 
+## Idea
+- [ICCV2023] Generalized Lightness Adaptation with Channel Selective Normalization [[paper](https://arxiv.org/abs/2308.13783)] [[code](https://github.com/mdyao/CSNorm)]
