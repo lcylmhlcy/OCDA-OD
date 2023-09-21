@@ -1,4 +1,4 @@
-## frequency randomization
+## domain randomization
 - [CVPR2019] Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf)] [[code](https://github.com/TKKim93/DivMatch)]
 
 - [BMVC2019] Domain Adaptation for Object Detection via Style Consistency [[paper](https://arxiv.org/abs/1911.10033)] [[code](https://github.com/pb2377/Pytorch-Domain-Adaptation-via-Style-Consistency)]
@@ -9,6 +9,8 @@
 
 - [TIP2022] Robust Object Detection via Adversarial Novel Style Exploration [[paper](https://ieeexplore.ieee.org/abstract/document/9697984)]
 
+---
+
 ## pixel-level DA (image translation)
 - [CVPR2017] Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks [[paper](https://arxiv.org/abs/1612.05424)] [[code](https://github.com/Gitikameher/PixelDA)]
 
@@ -18,7 +20,28 @@
 
 - [CVPR2018] Duplex Generative Adversarial Network for Unsupervised Domain Adaptation [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Hu_Duplex_Generative_Adversarial_CVPR_2018_paper.html)]
 
+- [CVPR2018] Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation [[paper](https://arxiv.org/abs/1711.06969)] [[code](https://github.com/swamiviv/LSD-seg)]
+
+- [CVPR2018] Conditional Generative Adversarial Network for Structured Domain Adaptation [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Hong_Conditional_Generative_Adversarial_CVPR_2018_paper.html)]
+
+- [CVPR2019] Bidirectional Learning for Domain Adaptation of Semantic Segmentation [[paper](https://arxiv.org/abs/1904.10620)] [[code](https://github.com/liyunsheng13/BDL)]
+
+---
+
 ## Idea
-- [ICCV2021] IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID [[paper](https://arxiv.org/abs/2108.02413)] [[code](https://github.com/SikaStar/IDM]  [[IDM++](https://arxiv.org/abs/2203.01682)]
+- [NIPS2013] Reshaping Visual Datasets for Domain Adaptation [[paper](https://proceedings.neurips.cc/paper/2013/hash/2291d2ec3b3048d1a6f86c2c4591b7e0-Abstract.html)] 
+
+- [ICCV2021] IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID [[paper](https://arxiv.org/abs/2108.02413)] [[code](https://github.com/SikaStar/IDM)]  [[IDM++](https://arxiv.org/abs/2203.01682)]
 
 - [ICCV2023] Generalized Lightness Adaptation with Channel Selective Normalization [[paper](https://arxiv.org/abs/2308.13783)] [[code](https://github.com/mdyao/CSNorm)]
+
+---
+
+# Domain randomization
+- [IROS2017] Domain randomization for transferring deep neural networks from simulation to the real world [[paper](https://arxiv.org/abs/1703.06907)]
+
+- [NIPS2018] Generalizing to Unseen Domains via Adversarial Data Augmentation [[paper](https://arxiv.org/abs/1805.12018)] [[code](https://github.com/ricvolpi/generalize-unseen-domains)]
+
+- [ICCV2019] Domain randomization and pyramid consistency: Simulation-to-real generalization without accessing target domain data [[paper](https://arxiv.org/abs/1909.00889)] [[code](https://github.com/xyyue/DRPC)]
+
+- [CVPR2020] Learning to Learn Single Domain Generalization [[paper](https://arxiv.org/abs/2003.13216)] [[code](https://github.com/joffery/M-ADA)]
