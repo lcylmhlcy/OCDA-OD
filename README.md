@@ -25,6 +25,7 @@ open compound domain adaptation on object detection under multiple degraded weat
 - [2022] Normalization Perturbation: A Simple Domain Generalization Method for Real-World Domain Shifts [[paper](https://arxiv.org/abs/2211.04393)]
 - [SIGIR2023] Adversarial Meta Prompt Tuning for Open Compound Domain Adaptive Intent Detection [[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591945)]
 - [2023] Test-time Adaptation in the Dynamic World with Compound Domain Knowledge Management [[paper](https://arxiv.org/abs/2212.08356)]
+- [NIPS2023] Open Compound Domain Adaptation with Object Style Compensation for Semantic Segmentation [[paper](https://arxiv.org/abs/2309.16127)]
 
 ---
 
