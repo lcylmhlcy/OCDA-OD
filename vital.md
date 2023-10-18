@@ -29,9 +29,13 @@
 ---
 
 ## Idea
-- [NIPS2013] Reshaping Visual Datasets for Domain Adaptation [[paper](https://proceedings.neurips.cc/paper/2013/hash/2291d2ec3b3048d1a6f86c2c4591b7e0-Abstract.html)] 
+- [NIPS2013] Reshaping Visual Datasets for Domain Adaptation [[paper](https://proceedings.neurips.cc/paper/2013/hash/2291d2ec3b3048d1a6f86c2c4591b7e0-Abstract.html)]
+
+- [TPAMI2013] Unsupervised Adaptation Across Domain Shifts by Generating Intermediate Data Representations [[paper](https://ieeexplore.ieee.org/abstract/document/6684145)]
 
 - [ICCV2021] IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID [[paper](https://arxiv.org/abs/2108.02413)] [[code](https://github.com/SikaStar/IDM)]  [[IDM++](https://arxiv.org/abs/2203.01682)]
+
+- [CVPR2021] Unsupervised Multi-Source Domain Adaptation for Person Re-Identification [[paper](https://arxiv.org/abs/2104.12961)] [[code](https://github.com/Neverland610/MSUDA_REID)]
 
 - [ICCV2023] Generalized Lightness Adaptation with Channel Selective Normalization [[paper](https://arxiv.org/abs/2308.13783)] [[code](https://github.com/mdyao/CSNorm)]
 
