@@ -20,6 +20,8 @@
 
 - [TPAMI2013] Unsupervised Adaptation Across Domain Shifts by Generating Intermediate Data Representations [[paper](https://ieeexplore.ieee.org/abstract/document/6684145)]
 
+- [x] [CVPR2020] FDA: Fourier Domain Adaptation for Semantic Segmentation [[paper](https://arxiv.org/abs/2004.05498)] [[code](https://github.com/YanchaoYang/FDA)]
+
 - [x] [ICCV2021] IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID [[paper](https://arxiv.org/abs/2108.02413)] [[code](https://github.com/SikaStar/IDM)]  [[IDM++](https://arxiv.org/abs/2203.01682)]
 
 - [x] [CVPR2021] Unsupervised Multi-Source Domain Adaptation for Person Re-Identification [[paper](https://arxiv.org/abs/2104.12961)] [[code](https://github.com/Neverland610/MSUDA_REID)]
