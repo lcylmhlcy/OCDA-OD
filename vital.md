@@ -26,7 +26,11 @@
 
 - [x] [CVPR2021] Unsupervised Multi-Source Domain Adaptation for Person Re-Identification [[paper](https://arxiv.org/abs/2104.12961)] [[code](https://github.com/Neverland610/MSUDA_REID)]
 
+- [CVPR2022] SNR-Aware Low-light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_SNR-Aware_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] [[code](https://github.com/dvlab-research/SNR-Aware-Low-Light-Enhance)]
+
 - [ICCV2023] Generalized Lightness Adaptation with Channel Selective Normalization [[paper](https://arxiv.org/abs/2308.13783)] [[code](https://github.com/mdyao/CSNorm)]
+
+- [MM2023] FourLLIE: Boosting Low-Light Image Enhancement by Fourier Frequency Information [[paper](https://arxiv.org/abs/2308.03033)] [[code](https://github.com/wangchx67/fourllie)]
 
 ---
 
