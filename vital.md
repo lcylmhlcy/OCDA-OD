@@ -15,6 +15,17 @@
 
 ---
 
+# Mean Teacher
+- [NIPS2017] Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results [[paper](https://arxiv.org/abs/1703.01780)] [[code](https://github.com/CuriousAI/mean-teacher)]
+
+- [CVPR2019] Exploring Object Relation in Mean Teacher for Cross-Domain Detection [[paper](https://arxiv.org/abs/1904.11245)] [[code](https://github.com/caiqi/mean-teacher-cross-domain-detection)]
+
+- [CVPR2021] Unbiased Mean Teacher for Cross-domain Object Detection [[paper](https://arxiv.org/abs/2003.00707)] [[code](https://github.com/kinredon/umt)]
+
+- [CVPR2022] Cross-Domain Adaptive Teacher for Object Detection [[paper](https://arxiv.org/abs/2111.13216)] [[code](https://github.com/facebookresearch/adaptive_teacher)] [[知乎讲解](https://zhuanlan.zhihu.com/p/610371621)]
+
+---
+
 ## Idea
 - [NIPS2013] Reshaping Visual Datasets for Domain Adaptation [[paper](https://proceedings.neurips.cc/paper/2013/hash/2291d2ec3b3048d1a6f86c2c4591b7e0-Abstract.html)]
 
